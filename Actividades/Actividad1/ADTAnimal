@@ -1,0 +1,12 @@
+Nombre: Animal 
+Datos: 
+    Sonido (string)
+    Especie (string)
+    Alas (bool)
+    Edad (int)
+Lista de operaciones: 
+    Hacer sonido (void): método que imprime el sonido realizado por el animal
+        Entrada: NA
+        Precondiciones: que sea una instancia que herede de la clase animal (no pueden haber instancias de un animal general)
+        Proceso: obtener el sonido que hace el animal e imprimirlo
+        Salida: impresión del sonido en la consola

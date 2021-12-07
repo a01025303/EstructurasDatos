@@ -1,0 +1,27 @@
+Nombre: Calculadora
+Datos: 
+    Tipo (string)
+    Marca (string)
+    Color (string)
+    Modelo (string)
+Lista de operaciones: 
+    Suma: método que regresa la suma de dos números
+        Entrada: dos números 
+        Precondiciones: dos números del mismo tipo
+        Proceso: sumar primer número y segundo número
+        Salida: resultado de la operación
+    Resta: método que regresa la resta de dos números
+        Entrada: dos números
+        Precondiciones: dos números del mismo tipo
+        Proceso: restar primer número y segundo número
+        Salida: resultado de la operación
+    División: método que regresa la división de dos números
+        Entrada: dos números
+        Precondiciones: dos números del mismo tipo
+        Proceso: dividir primer número y segundo número
+        Salida: resultado de la operación
+    Multiplicación: método que regresa la multiplicación de dos números
+        Entrada: dos números
+        Precondiciones: dos números del mismo tipo
+        Proceso: multiplicar primer número y segundo número
+        Salida: resultado de la operación
