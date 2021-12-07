@@ -1,0 +1,7 @@
+Nombre: ConexionesComputadora
+Datos: 
+    IP (String)
+    Nombre (String)
+    Conexiones entrantes (Stack de Records)
+    Conexiones salientes (Queue de Records)
+Lista de operaciones: N/A

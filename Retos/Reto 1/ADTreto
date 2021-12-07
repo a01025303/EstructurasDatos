@@ -1,0 +1,13 @@
+Nombre: Record
+Datos: 
+    Fecha (string)
+    Hora (string) 
+    IP Fuente (string)
+    Puerto Fuente (int)
+    Nombre Fuente (string)
+    IP Destino (string)
+    Puerto Destino (int)
+    Nombre Destino (string)
+Lista de operaciones: 
+    Método Record: guarda los datos extraídos del csv en sus respectivos atributos
+    Método Imprimir: muestra los datos del record
